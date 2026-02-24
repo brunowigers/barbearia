@@ -1,11 +1,48 @@
 body {
-    background-color: rgb(11, 228, 236);
+    background-color: rgb(252, 252, 252);
+}
+.principal{
+    background: #39f2ff;
+    padding: 30px;
+}
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    background: #60ffc2;
 }
 
+h2{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20;
+    margin-right: 15%
+}
+
+.imgbeneficios{
+    width: 50%;
+}
 p{
     text-align: center;
 }
 
 en strong{
-    color:rgb(0, 26, 255)
+    color:rgb(0, 26, 255);
+
+}
+  
+#banner{
+    width: 200%
+}
+
+h1{
+    text-align: center;
+
+}
+
+#missao{
+    font-size: 20px;
 }
