@@ -53,7 +53,7 @@ padding: 0px;
 }
 
 header {
-background: #BBBBBB;
+background: #46ddf1;
 padding: 20px 0;
 }
 
@@ -83,7 +83,7 @@ text-decoration: none;
 }
 
 nav a:hover {
-color: #C78C19;
+color: #f34500;
 text-decoration: underline;
 }
 
@@ -93,13 +93,13 @@ margin: 0 auto;
 }
 
 .principal{
-background: #CCCCCC;
+background: #a1f1ed;
 padding: 5%;
 
 }
 
 .beneficios {
-background: #BBBBBB;
+background: #57fcd833;
 padding: 20px;
 font-size:20px;
 }
@@ -135,7 +135,7 @@ border-radius: 10px;
 }
 
 .produtos li:hover {
-border-color: #C78C19;
+border-color: #c73c19;
 }
 
 .produtos li:active {
@@ -197,7 +197,7 @@ border-radius: 10px;
 }
 
 .produtos li:hover {
-border-color: #C78C19;
+border-color: #df4212;
 }
 
 .produtos li:active {
@@ -290,7 +290,7 @@ font-style: italic;
 text-align: center;
 line-height: 1.2;
 font-size: 18px;
-border: solid gray 2px;
+border: solid rgb(100, 92, 90) 2px;
 box-sizing:flex;
 margin-bottom: 20px;
 }
@@ -298,3 +298,16 @@ margin-bottom: 20px;
 .itens {
 font-style: italic
 }
+footer {
+    background: #333333; /* Muda a cor de fundo para um cinza escuro */
+    text-align: center;  /* Centraliza a imagem e o texto */
+    padding: 40px 0;     /* Cria um espaço interno em cima e embaixo */
+}
+
+.copyright {
+    color: #FFFFFF;      /* Deixa o texto do copyright branco */
+    font-size: 13px;     /* Ajusta o tamanho da letra */
+    margin-top: 20px;    /* Cria uma distância entre a logo e o texto */
+}
+
+fieldset p {text-align: left;}
